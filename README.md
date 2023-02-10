@@ -35,11 +35,11 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Technology 
 
-This application was created using JavaScript and React. 
+This application was created using JavaScript and [React](https://reactjs.org/) using [create-react-app](https://create-react-app.dev/). 
 
-Jest and the React Testing Library were used for testing.
+[Jest](https://jestjs.io/) and the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) were used for testing.
 
-Data was taken from an external API using Axios.
+Data was taken from an external API with HTTP requests using [Axios](https://www.npmjs.com/package/axios).
 
 ### To do
 
