@@ -1,4 +1,4 @@
-# Weather App
+# Weather App :sun_with_face:
 
 This is a project to create a weather forecasting application using React.
 
