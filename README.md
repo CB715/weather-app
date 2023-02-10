@@ -39,7 +39,7 @@ This application was created using JavaScript and [React](https://reactjs.org/) 
 
 [Jest](https://jestjs.io/) and the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) were used for testing.
 
-Data was taken from an external API with HTTP requests using [Axios](https://www.npmjs.com/package/axios).
+Data was taken from an external API with HTTP requests using [Axios](https://www.npmjs.com/package/axios). Typechecking was done with [Prop Types](https://www.npmjs.com/package/prop-types).
 
 ### To do
 
